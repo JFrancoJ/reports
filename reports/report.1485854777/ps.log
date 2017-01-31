@@ -1,0 +1,30 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root       943  0.0  0.0  20588   392 tty1     Ss   Jan06   0:00 -bash
+root       944  0.0  0.0  12796   340 tty2     Ss+  Jan06   0:00 /sbin/agetty 38400 tty2 linux
+root       945  0.0  0.0  12796   340 tty3     Ss+  Jan06   0:00 /sbin/agetty 38400 tty3 linux
+root       946  0.0  0.0  12796   340 tty4     Ss+  Jan06   0:00 /sbin/agetty 38400 tty4 linux
+root       947  0.0  0.0  12796   340 tty5     Ss+  Jan06   0:00 /sbin/agetty 38400 tty5 linux
+root       948  0.0  0.0  12796   340 tty6     Ss+  Jan06   0:00 /sbin/agetty 38400 tty6 linux
+root      1281  0.0  0.0  20616   212 tty1     S+   Jan06   0:00 -bash
+root      1297  0.0  0.0  16008   288 tty1     S+   Jan06   0:00 xinit /root/.xinitrc -- /usr/bin/X :0 -auth /root/.serverauth.1281
+root      1298 12.7  0.8 192828 31620 tty7     S<s+ Jan06 4548:53 /usr/bin/X :0 -auth /root/.serverauth.1281
+root      1302  0.0  0.0  11880   252 tty1     S    Jan06   0:00 sh /root/.xinitrc
+root      1303  0.0  0.0  64024   488 tty1     S    Jan06   0:00 /usr/local/bin/enlightenment_start
+root      1306  0.0  0.0  30748   136 tty1     S    Jan06   0:00 dbus-launch --exit-with-session /usr/local/bin/enlightenment_start
+root      1308  7.7  4.4 1126596 177236 tty1   Sl   Jan06 2756:42 /usr/local/bin/enlightenment
+root      1328  0.0  0.0  55008  1424 tty1     SN   Jan06   0:56 /usr/local/lib/enlightenment/modules/temperature/linux-gnu-x86_64-ver-serious-0.19/tempget 0 (null) 128
+root      1350  0.0  0.0  19836  1076 pts/0    SNs  Jan06   0:01 bash
+root      1358  0.0  0.0  19744   480 pts/1    SNs+ Jan06   0:00 bash
+root      4580  0.0  0.0  19752   932 pts/6    SNs  Jan25   0:00 bash
+root      4581  0.0  0.0  27464  1416 pts/6    SN+  Jan25   0:01 pico README.md
+root      5395  0.0  0.0  19752   900 pts/7    SNs+ Jan25   0:00 bash
+root      5431  0.0  0.0  19764  1564 pts/8    SNs+ Jan25   0:00 bash
+root      8794  0.0  0.0  17052  1232 pts/8    TN   Jan29   0:00 git commit
+root      8795  0.0  0.0   9280   632 pts/8    TN   Jan29   0:00 vi .git/COMMIT_EDITMSG
+root      9561  0.0  0.0  20584  2188 pts/3    Ss+  Jan30   0:00 -bash
+root      9715  1.7  0.2 229288  9440 pts/0    SN+  Jan30  11:23 xlock -mode lisa
+root     10015  0.0  0.0  20584  2228 pts/5    Ss   09:26   0:00 -bash
+root     10029  0.0  0.0  20604  1552 pts/5    S+   09:26   0:00 -bash
+root     10040  0.0  0.0  15512  1184 pts/5    R+   09:26   0:00 ps -auwww
+root     14193  0.0  0.0  19740   544 pts/2    SNs+ Jan11   0:00 bash
+root     31089  0.0  0.0  20568  1224 pts/4    Ss+  Jan23   0:00 -bash
