@@ -1,0 +1,215 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0   4356   364 ?        Ss   Jan06   0:16 init [3]  
+root         2  0.0  0.0      0     0 ?        S    Jan06   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    Jan06   0:24 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kworker/0:0H]
+root         7  0.0  0.0      0     0 ?        S    Jan06   0:00 [migration/0]
+root         8  0.0  0.0      0     0 ?        S    Jan06   0:00 [rcu_bh]
+root         9  0.0  0.0      0     0 ?        S    Jan06  15:16 [rcu_sched]
+root        10  0.0  0.0      0     0 ?        S    Jan06   0:00 [migration/1]
+root        11  0.0  0.0      0     0 ?        S    Jan06   0:07 [ksoftirqd/1]
+root        13  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kworker/1:0H]
+root        14  0.0  0.0      0     0 ?        S    Jan06   0:01 [migration/2]
+root        15  0.0  0.0      0     0 ?        S    Jan06   0:07 [ksoftirqd/2]
+root        17  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kworker/2:0H]
+root        18  0.0  0.0      0     0 ?        S    Jan06   0:01 [migration/3]
+root        19  0.0  0.0      0     0 ?        S    Jan06   0:07 [ksoftirqd/3]
+root        21  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kworker/3:0H]
+root        22  0.0  0.0      0     0 ?        S    Jan06   0:00 [migration/4]
+root        23  0.0  0.0      0     0 ?        S    Jan06   0:01 [ksoftirqd/4]
+root        25  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kworker/4:0H]
+root        26  0.0  0.0      0     0 ?        S    Jan06   0:00 [migration/5]
+root        27  0.0  0.0      0     0 ?        S    Jan06   0:01 [ksoftirqd/5]
+root        29  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kworker/5:0H]
+root        30  0.0  0.0      0     0 ?        S    Jan06   0:00 [migration/6]
+root        31  0.0  0.0      0     0 ?        S    Jan06   0:02 [ksoftirqd/6]
+root        33  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kworker/6:0H]
+root        34  0.0  0.0      0     0 ?        S    Jan06   0:00 [migration/7]
+root        35  0.0  0.0      0     0 ?        S    Jan06   0:02 [ksoftirqd/7]
+root        37  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kworker/7:0H]
+root        38  0.0  0.0      0     0 ?        S<   Jan06   0:00 [khelper]
+root        39  0.0  0.0      0     0 ?        S    Jan06   0:00 [kdevtmpfs]
+root        40  0.0  0.0      0     0 ?        S<   Jan06   0:00 [netns]
+root        41  0.0  0.0      0     0 ?        S<   Jan06   0:00 [writeback]
+root        42  0.0  0.0      0     0 ?        S<   Jan06   0:00 [bioset]
+root        43  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kblockd]
+root        44  0.0  0.0      0     0 ?        S<   Jan06   0:00 [ata_sff]
+root        45  0.0  0.0      0     0 ?        S    Jan06   0:00 [khubd]
+root        46  0.0  0.0      0     0 ?        S<   Jan06   0:00 [md]
+root        47  0.0  0.0      0     0 ?        S<   Jan06   0:00 [devfreq_wq]
+root        49  0.0  0.0      0     0 ?        S<   Jan06   0:00 [rpciod]
+root        84  0.0  0.0      0     0 ?        S    Jan06   0:00 [khungtaskd]
+root        85  0.0  0.0      0     0 ?        S    Jan06   0:00 [kswapd0]
+root        86  0.0  0.0      0     0 ?        SN   Jan06   0:11 [khugepaged]
+root        87  0.0  0.0      0     0 ?        S    Jan06   0:00 [fsnotify_mark]
+root        88  0.0  0.0      0     0 ?        S<   Jan06   0:00 [nfsiod]
+root        89  0.0  0.0      0     0 ?        S    Jan06   0:00 [jfsIO]
+root        90  0.0  0.0      0     0 ?        S    Jan06   0:00 [jfsCommit]
+root        91  0.0  0.0      0     0 ?        S    Jan06   0:00 [jfsCommit]
+root        92  0.0  0.0      0     0 ?        S    Jan06   0:00 [jfsCommit]
+root        93  0.0  0.0      0     0 ?        S    Jan06   0:00 [jfsCommit]
+root        94  0.0  0.0      0     0 ?        S    Jan06   0:00 [jfsCommit]
+root        95  0.0  0.0      0     0 ?        S    Jan06   0:00 [jfsCommit]
+root        96  0.0  0.0      0     0 ?        S    Jan06   0:00 [jfsCommit]
+root        97  0.0  0.0      0     0 ?        S    Jan06   0:00 [jfsCommit]
+root        98  0.0  0.0      0     0 ?        S    Jan06   0:00 [jfsSync]
+root        99  0.0  0.0      0     0 ?        S<   Jan06   0:00 [xfsalloc]
+root       100  0.0  0.0      0     0 ?        S<   Jan06   0:00 [xfs_mru_cache]
+root       101  0.0  0.0      0     0 ?        S<   Jan06   0:00 [xfslogd]
+root       102  0.0  0.0      0     0 ?        S<   Jan06   0:00 [ocfs2_wq]
+root       103  0.0  0.0      0     0 ?        S<   Jan06   0:00 [user_dlm]
+root       104  0.0  0.0      0     0 ?        S<   Jan06   0:00 [bioset]
+root       105  0.0  0.0      0     0 ?        S<   Jan06   0:00 [crypto]
+root       148  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kthrotld]
+root       151  0.0  0.0      0     0 ?        S    Jan06   0:00 [cciss_scan]
+root       152  0.0  0.0      0     0 ?        S<   Jan06   0:00 [fc_exch_workque]
+root       153  0.0  0.0      0     0 ?        S<   Jan06   0:00 [fc_rport_eq]
+root       154  0.0  0.0      0     0 ?        S<   Jan06   0:00 [fcoethread/0]
+root       155  0.0  0.0      0     0 ?        S<   Jan06   0:00 [fcoethread/1]
+root       156  0.0  0.0      0     0 ?        S<   Jan06   0:00 [fcoethread/2]
+root       157  0.0  0.0      0     0 ?        S<   Jan06   0:00 [fcoethread/3]
+root       158  0.0  0.0      0     0 ?        S<   Jan06   0:00 [fcoethread/4]
+root       159  0.0  0.0      0     0 ?        S<   Jan06   0:00 [fcoethread/5]
+root       160  0.0  0.0      0     0 ?        S<   Jan06   0:00 [fcoethread/6]
+root       161  0.0  0.0      0     0 ?        S<   Jan06   0:00 [fcoethread/7]
+root       162  0.0  0.0      0     0 ?        S<   Jan06   0:00 [fnic_event_wq]
+root       164  0.0  0.0      0     0 ?        S    Jan06   0:00 [scsi_eh_0]
+root       165  0.0  0.0      0     0 ?        S    Jan06   0:00 [scsi_eh_1]
+root       166  0.0  0.0      0     0 ?        S    Jan06   0:00 [scsi_eh_2]
+root       167  0.0  0.0      0     0 ?        S    Jan06   0:00 [scsi_eh_3]
+root       168  0.0  0.0      0     0 ?        S    Jan06   0:00 [scsi_eh_4]
+root       169  0.0  0.0      0     0 ?        S    Jan06   0:00 [scsi_eh_5]
+root       175  0.0  0.0      0     0 ?        S    Jan06   0:00 [scsi_eh_6]
+root       183  0.0  0.0      0     0 ?        S    Jan06   0:00 [scsi_eh_7]
+root       184  0.0  0.0      0     0 ?        S<   Jan06   0:00 [exec-osm]
+root       185  0.0  0.0      0     0 ?        S<   Jan06   0:00 [block-osm]
+root       186  0.0  0.0      0     0 ?        SN   Jan06   0:00 [speakup]
+root       187  0.0  0.0      0     0 ?        S<   Jan06   0:00 [deferwq]
+root       188  0.0  0.0      0     0 ?        S<   Jan06   0:40 [kworker/0:1H]
+root       189  0.0  0.0      0     0 ?        S    Jan06   1:13 [jbd2/sda1-8]
+root       190  0.0  0.0      0     0 ?        S<   Jan06   0:00 [ext4-dio-unwrit]
+root       222  0.0  0.0  30688   528 ?        Ss   Jan06   0:00 /sbin/udevd --daemon
+root       320  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kworker/1:1H]
+root       322  0.0  0.0      0     0 ?        S<   Jan06   0:00 [cfg80211]
+root       330  0.0  0.0      0     0 ?        S<   Jan06   0:00 [hd-audio0]
+root       333  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kpsmoused]
+root       336  0.0  0.0      0     0 ?        S    Jan06   0:58 [irq/43-iwlwifi]
+root       338  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kvm-irqfd-clean]
+root       351  0.0  0.0      0     0 ?        S<   Jan06   0:00 [iwlwifi]
+root       358  0.0  0.0      0     0 ?        S    Jan06   0:00 [irq/44-mei_me]
+root       361  0.0  0.0      0     0 ?        S<   Jan06   0:00 [led_workqueue]
+root       383  0.0  0.0      0     0 ?        S<   Jan06   0:00 [ttm_swap]
+root       527  0.0  0.0   6468   520 ?        Ss   Jan06   0:05 /usr/sbin/syslogd
+root       531  0.0  0.0   4360   204 ?        Ss   Jan06   0:01 /usr/sbin/klogd -c 3 -x
+root       532  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kworker/2:1H]
+root       600  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kworker/7:1H]
+root       621  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kworker/6:1H]
+root       780  0.0  0.0   8736   608 ?        Ss   Jan06   0:01 /sbin/dhcpcd -t 10 wlan0
+root       809  0.0  0.0  27976   692 ?        Ss   Jan06   0:00 /usr/sbin/sshd
+root       817  0.0  0.0   4372   324 ?        Ss   Jan06   0:00 /usr/sbin/acpid
+81         830  0.0  0.0  19968  1076 ?        Ss   Jan06   0:00 /usr/bin/dbus-daemon --system
+root       833  0.0  0.0 4180512  932 ?        Ssl  Jan06   0:00 /usr/sbin/console-kit-daemon
+root       899  0.0  0.0 203596   920 ?        Sl   Jan06   0:00 /usr/libexec/polkitd --no-debug
+root       922  0.0  0.0  12792   492 ?        Ss   Jan06   0:03 /usr/sbin/crond -l notice
+daemon     924  0.0  0.0  12784    64 ?        Ss   Jan06   0:00 /usr/sbin/atd -b 15 -l 1
+root       929  0.0  0.0   9444   324 ?        S    Jan06   0:00 /bin/sh /usr/bin/mysqld_safe --datadir=/var/lib/mysql --pid-file=/var/run/mysql/mysql.pid
+root       941  0.0  0.0   7512   228 ?        Ss   Jan06   0:00 /usr/sbin/gpm -m /dev/mouse -t imps2
+root       943  0.0  0.0  20588   392 tty1     Ss   Jan06   0:00 -bash
+root       944  0.0  0.0  12796   340 tty2     Ss+  Jan06   0:00 /sbin/agetty 38400 tty2 linux
+root       945  0.0  0.0  12796   340 tty3     Ss+  Jan06   0:00 /sbin/agetty 38400 tty3 linux
+root       946  0.0  0.0  12796   340 tty4     Ss+  Jan06   0:00 /sbin/agetty 38400 tty4 linux
+root       947  0.0  0.0  12796   340 tty5     Ss+  Jan06   0:00 /sbin/agetty 38400 tty5 linux
+root       948  0.0  0.0  12796   340 tty6     Ss+  Jan06   0:00 /sbin/agetty 38400 tty6 linux
+mysql     1229  0.0  0.5 983192 19820 ?        Sl   Jan06  30:10 /usr/libexec/mysqld --basedir=/usr --datadir=/var/lib/mysql --plugin-dir=/usr/lib/mysql/plugin --user=mysql --log-error=/var/lib/mysql/ASUS.err --pid-file=/var/run/mysql/mysql.pid --socket=/var/run/mysql/mysql.sock --port=3306
+root      1281  0.0  0.0  20616   212 tty1     S+   Jan06   0:00 -bash
+root      1297  0.0  0.0  16008   288 tty1     S+   Jan06   0:00 xinit /root/.xinitrc -- /usr/bin/X :0 -auth /root/.serverauth.1281
+root      1298 12.7  0.7 193596 30340 tty7     S<s+ Jan06 4549:42 /usr/bin/X :0 -auth /root/.serverauth.1281
+root      1302  0.0  0.0  11880   252 tty1     S    Jan06   0:00 sh /root/.xinitrc
+root      1303  0.0  0.0  64024   488 tty1     S    Jan06   0:00 /usr/local/bin/enlightenment_start
+root      1306  0.0  0.0  30748   136 tty1     S    Jan06   0:00 dbus-launch --exit-with-session /usr/local/bin/enlightenment_start
+root      1307  0.0  0.0  20152   832 ?        Ss   Jan06   0:00 /usr/bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+root      1308  7.7  4.4 1126596 177076 tty1   Sl   Jan06 2756:46 /usr/local/bin/enlightenment
+root      1311  0.0  0.0  57820  1060 ?        SN   Jan06   0:00 /usr/local/bin/efreetd
+root      1328  0.0  0.0  55008  1424 tty1     SN   Jan06   0:56 /usr/local/lib/enlightenment/modules/temperature/linux-gnu-x86_64-ver-serious-0.19/tempget 0 (null) 128
+root      1329  0.0  0.0 131224  1644 ?        SNs  Jan06   0:00 /usr/local/lib/enlightenment/utils/enlightenment_fm
+root      1331  0.0  0.0 434472  3116 ?        Sl   Jan06   5:14 /usr/lib/udisks2/udisksd --no-debug
+root      1338  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kworker/5:1H]
+root      1348  0.0  0.1  82488  4100 ?        SNs  Jan06   0:11 xterm
+root      1350  0.0  0.0  19836  1076 pts/0    SNs  Jan06   0:01 bash
+root      1356  0.0  0.0  78496  1480 ?        SNs  Jan06   0:00 xterm
+root      1358  0.0  0.0  19744   480 pts/1    SNs+ Jan06   0:00 bash
+root      1370  0.0  0.0 288940   888 ?        Sl   Jan06   0:00 /usr/libexec/at-spi-bus-launcher
+root      1388  0.0  0.0 185360   844 ?        Sl   Jan06   0:00 /usr/libexec/gvfsd
+root      1392  0.0  0.0 349180   872 ?        Sl   Jan06   0:00 /usr/libexec//gvfsd-fuse -f /root/.gvfs
+root      1434  0.0  0.0 296300  3604 ?        Sl   Jan06   0:06 /usr/libexec/gvfs-udisks2-volume-monitor
+root      1438  0.0  0.0 198932  1832 ?        Sl   Jan06   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+root      1442  0.0  0.0 186784  1592 ?        Sl   Jan06   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+root      1458  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kworker/3:1H]
+root      1491  0.0  0.0 108848  1316 ?        Sl   Jan06   0:00 /usr/libexec/gvfsd-metadata
+root      1500  0.0  0.0 332824  1044 ?        Sl   Jan06   0:00 /usr/libexec/gvfsd-burn --spawner :1.5 /org/gtk/gvfs/exec_spaw/0
+root      1607  0.0  0.0      0     0 ?        S<   Jan06   0:00 [kworker/4:1H]
+root      2171  0.0  0.0      0     0 ?        S    Jan12   0:11 [kworker/4:3]
+root      3032  0.4 10.7 1499980 423632 ?      SNsl Jan07 139:12 firefox
+root      3067  0.0  0.0  47828  1100 ?        S    Jan07   0:03 /usr/libexec/gconfd-2
+root      4040 16.1 17.6 2059656 695720 ?      SNsl Jan24 1539:25 /usr/bin/seamonkey
+root      4578  0.0  0.0  78496  3052 ?        SNs  Jan25   0:00 xterm
+root      4580  0.0  0.0  19752   932 pts/6    SNs  Jan25   0:00 bash
+root      4581  0.0  0.0  27464  1416 pts/6    SN+  Jan25   0:01 pico README.md
+root      5105  0.0  0.0 196488  2044 ?        Sl   Jan12   0:00 /usr/libexec/upowerd
+root      5131  0.0  0.1 191356  5208 ?        Sl   Jan12   0:18 /usr/libexec/udisks-daemon
+root      5139  0.0  0.0  43392   860 ?        S    Jan12   0:00 udisks-daemon: not polling any devices
+root      5157  0.0  0.1 165212  5664 ?        SNs  Jan12   0:00 kdeinit4: kdeinit4 Running...
+root      5159  0.0  0.1 207360  5724 ?        SN   Jan12   0:00 kdeinit4: klauncher [kdeinit] --fd=8
+root      5161  0.0  0.3 300724 13240 ?        SN   Jan12   0:26 kdeinit4: kded4 [kdeinit]  
+root      5163  0.0  0.0  20468  1180 ?        SN   Jan12   0:00 /usr/libexec/gam_server
+root      5210  0.0  0.0      0     0 ?        S    Jan12   0:00 [kworker/6:1]
+root      5393  0.0  0.1  78496  7396 ?        SNs  Jan25   0:00 xterm
+root      5395  0.0  0.0  19752   900 pts/7    SNs+ Jan25   0:00 bash
+root      5429  0.0  0.1  85880  5568 ?        SNs  Jan25   0:02 xterm
+root      5431  0.0  0.0  19764  1568 pts/8    SNs+ Jan25   0:00 bash
+root      5928  0.0  0.0      0     0 ?        S    Jan12   0:00 [kworker/3:0]
+root      5958  0.0  0.0      0     0 ?        S    Jan12   0:00 [kworker/7:2]
+root      5962  0.0  0.0  30684   624 ?        S    Jan12   0:00 /sbin/udevd --daemon
+root      5963  0.0  0.0  30684   332 ?        S    Jan12   0:00 /sbin/udevd --daemon
+root      5980  0.0  0.0  53864  2040 ?        SNs  Jan12   0:00 cupsd -C /etc/cups/cupsd.conf
+root      6093  0.0  0.0      0     0 ?        S    Jan26   0:03 [kworker/6:0]
+root      6528  0.0  0.0      0     0 ?        S    Jan27   0:04 [kworker/1:1]
+root      8552  0.0  0.0      0     0 ?        S    Jan29   0:00 [kworker/1:0]
+root      8794  0.0  0.0  17052  1236 pts/8    TN   Jan29   0:00 git commit
+root      8795  0.0  0.0   9280   636 pts/8    TN   Jan29   0:00 vi .git/COMMIT_EDITMSG
+root      9046  0.0  0.0  21252   596 ?        SNs  Jan29   0:00 ssh-agent -s
+root      9363  0.0  0.0      0     0 ?        S    Jan30   0:02 [kworker/0:2]
+root      9455  0.0  0.0      0     0 ?        S    Jan30   0:05 [kworker/5:2]
+root      9559  0.0  0.0  32608  2820 ?        Ss   Jan30   0:00 sshd: root@pts/3 
+root      9561  0.0  0.0  20584  2188 pts/3    Ss+  Jan30   0:00 -bash
+root      9715  1.7  0.2 229288  9440 pts/0    SN+  Jan30  11:39 xlock -mode lisa
+root      9736  0.0  0.0      0     0 ?        S    Jan30   0:02 [kworker/u32:2]
+root      9768  0.0  0.0      0     0 ?        S    01:02   0:00 [kworker/0:0]
+root      9995  0.0  0.0      0     0 ?        S    09:11   0:00 [kworker/u32:1]
+root     10013  0.0  0.0  32608  2824 ?        Ss   09:26   0:00 sshd: root@pts/5 
+root     10015  0.0  0.0  20584  2236 pts/5    Ss   09:26   0:00 -bash
+root     10035  0.0  0.0  21248  1052 ?        Ss   09:26   0:00 ssh-agent -s
+root     10052  0.0  0.0      0     0 ?        S    09:27   0:00 [kworker/5:1]
+root     10085  0.0  0.0  21248   796 ?        Ss   09:31   0:00 ssh-agent -s
+root     10108  0.0  0.0  21248  1052 ?        Ss   09:32   0:00 ssh-agent -s
+root     10139  0.0  0.0  21248  1052 ?        Ss   09:34   0:00 ssh-agent -s
+root     10163  0.0  0.0  21248  1052 ?        Ss   09:35   0:00 ssh-agent -s
+root     10185  0.0  0.0  21248  1048 ?        Ss   09:35   0:00 ssh-agent -s
+root     10207  0.0  0.0  21248  1052 ?        Ss   09:35   0:00 ssh-agent -s
+root     10258  0.0  0.0  21248  1052 ?        Ss   09:37   0:00 ssh-agent -s
+root     10338  0.0  0.0  20612  1564 pts/5    S+   09:41   0:00 -bash
+root     10345  0.0  0.0  21248  1052 ?        Ss   09:41   0:00 ssh-agent -s
+root     10350  0.0  0.0  15512  1184 pts/5    R+   09:41   0:00 ps auxwww
+root     12984  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/u33:0]
+root     12985  0.0  0.0      0     0 ?        S<   Jan11   0:00 [hci0]
+root     12986  0.0  0.0      0     0 ?        S<   Jan11   0:00 [hci0]
+root     12988  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/u33:2]
+root     14011  0.0  0.0      0     0 ?        S    Jan11   0:16 [kworker/3:1]
+root     14191  0.0  0.1  78496  7128 ?        SNs  Jan11   0:00 xterm
+root     14193  0.0  0.0  19740   544 pts/2    SNs+ Jan11   0:00 bash
+root     15232  0.0  0.0      0     0 ?        S    Jan12   0:00 [kworker/4:2]
+root     30388  0.0  0.0      0     0 ?        S    Jan12   0:13 [kworker/7:0]
+root     30691  0.0  0.0      0     0 ?        S    Jan12   0:00 [kworker/2:1]
+root     31087  0.0  0.0  32744  1588 ?        Ss   Jan23   0:00 sshd: root@pts/4 
+root     31089  0.0  0.0  20568  1224 pts/4    Ss+  Jan23   0:00 -bash
+root     31716  0.0  0.0      0     0 ?        S    Jan23   0:05 [kworker/2:2]
